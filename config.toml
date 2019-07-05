@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "http://yunques.tk"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
